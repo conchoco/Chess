@@ -9,7 +9,7 @@ Uses the Alpha-Beta algorithm to search for the best move.
 Download the repository and install the numpy dependency:
 ```
 git clone https://github.com/Tenkiihehhe/Chess.git
-cd ChessAI
+cd Chess
 pip3 install numpy
 ```
 
