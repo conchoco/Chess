@@ -8,7 +8,7 @@ Uses the Alpha-Beta algorithm to search for the best move.
 ## Getting started
 Download the repository and install the numpy dependency:
 ```
-git clone https://github.com/conchoco/Chess.git
+git clone https://github.com/conchocon154/Chess.git
 cd Chess
 pip3 install numpy
 ```
